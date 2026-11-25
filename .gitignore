@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env*
+!.env.example
+next-dev.log
+*.tsbuildinfo
+delivery-manager-starter.zip
+coverage/
